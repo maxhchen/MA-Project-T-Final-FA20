@@ -1,4 +1,4 @@
-# MA-Project-T-Final-FA20
+# Collaborative Filtering
 
 Project T Final for CS 189/289A: Introduction to Machine Learning @ UC Berkeley
 
@@ -7,6 +7,8 @@ We aim to guide students through the Collaborative Filtering approach to recomme
 ## Contents
 
 - `documentation`: Slides and notes on Collaborative Filtering
+  - Slides: https://bit.ly/MA_Project_T_Final_Slides
+  - Notes: TBD
 - `code`: Jupyter Notebook assignment for Collaborative Filtering, along with necessary files and scripts
 - `assessment`: Sample questions to assess student learning
 
