@@ -2,14 +2,14 @@
 
 Project T Final for CS 189/289A: Introduction to Machine Learning @ UC Berkeley
 
-We aim to guide students through the Collaborative Filtering approach to recommendation systems. We want to expose students to 2 paradigms for collaborative filtering: nearest neighbor-style heuristic searches and latent space models that tie into matrix decompositions studied in EECS 16B. The assignment will be a Jupyter Notebook focused on constructing recommendations for a specific dataset -- Netflix title recommendations being a classic example. We'll start with the former paradigm connecting it to k-means and the clustering problem and analyze the efficiency and accuracy of this approach before moving on to models. Specifically, we will address the sparsity problem and show how SVD/PCA can be used to approach this problem over various choices of loss function and objective formulation. Lastly, we'll show common approaches and open problems with CF in industry (SGD, cold start issue, etc.).
+## Objectives:
+We aim to guide students through the Collaborative Filtering approach to recommendation systems. We want to expose students to 2 paradigms for collaborative filtering: nearest neighbor-style heuristic searches and latent space models that tie into matrix decompositions studied in EECS 16B. The assignment will be a Jupyter Notebook focused on constructing recommendations for a specific dataset -- Netflix title recommendations being a classic example, as well as the MovieLens dataset. We'll start with the former paradigm connecting it to k-means/KNN and the clustering problem and analyze the efficiency and accuracy of this approach. We will then move on to the models approach, which will address the sparsity problem and show how SVD/PCA can be used to approach this problem over various choices of loss function and objective formulation. Lastly, we'll touch upon common approaches and open problems with CF in industry (SGD, cold start issue, etc.).
 
 ## Contents
 
 - `documentation`: Slides and notes on Collaborative Filtering
-  - Slides: https://bit.ly/MA_Project_T_Final_Slides
-  - Notes: TBD
-- `code`: Jupyter Notebook assignment for Collaborative Filtering, along with necessary files and scripts
+  - Google Slides Mirror: https://bit.ly/MA_Project_T_Final_Slides
+- `code`: Jupyter Notebook assignment and solutions for Collaborative Filtering
 - `assessment`: Sample questions to assess student learning
 
 ## Contributors
