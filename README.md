@@ -3,7 +3,9 @@
 Project T Final for CS 189/289A: Introduction to Machine Learning @ UC Berkeley
 
 ## Objectives:
-We aim to guide students through the Collaborative Filtering approach to recommendation systems. We want to expose students to 2 paradigms for collaborative filtering: nearest neighbor-style heuristic searches and latent space models that tie into matrix decompositions studied in EECS 16B. The assignment will be a Jupyter Notebook focused on constructing recommendations for a specific dataset -- Netflix title recommendations being a classic example, as well as the MovieLens dataset. We'll start with the former paradigm connecting it to k-means/KNN and the clustering problem and analyze the efficiency and accuracy of this approach. We will then move on to the models approach, which will address the sparsity problem and show how SVD/PCA can be used to approach this problem over various choices of loss function and objective formulation. Lastly, we'll touch upon common approaches and open problems with CF in industry (SGD, cold start issue, etc.).
+We aim to guide students through the Collaborative Filtering approach to recommendation systems. We want to expose students to 2 paradigms for collaborative filtering: nearest neighbor-style heuristic searches and latent space models that tie into matrix decompositions studied in EECS 16B. The assignment will be a Jupyter Notebook focused on constructing recommendations for a specific dataset -- Netflix title recommendations being a classic example, as well as the MovieLens dataset. We'll start with the former paradigm connecting it to KNN; we will then move on to the models approach, which will address issues with sparsity and show how other techniques -- namely, matrix factorizations similar to Diagonalization/SVD seen in EECS 16AB -- can be used to approach this problem. Lastly, we'll touch upon common approaches for Collaborative Filtering in Industry (Surpriselib, Deep Learning, Regularization), and open problems (e.g. cold start issue).
+
+
 
 ## Contents
 
