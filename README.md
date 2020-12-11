@@ -9,8 +9,14 @@ We aim to guide students through the Collaborative Filtering approach to recomme
 
 - `documentation`: Slides and notes on Collaborative Filtering
   - Google Slides Mirror: https://bit.ly/MA_Project_T_Final_Slides
+  - [Slides Link](https://github.com/maxhchen/MA-Project-T-Final-FA20/blob/main/documentation/CollabFilteringSlides.pdf)
+  - [Notes]()
 - `code`: Jupyter Notebook assignment and solutions for Collaborative Filtering
+  - [Student Version](https://github.com/maxhchen/MA-Project-T-Final-FA20/blob/main/code/%5BStudent%20Copy%20%5D%20Collaborative%20Filtering.ipynb)
+  - [Solutions](https://github.com/maxhchen/MA-Project-T-Final-FA20/blob/main/code/%5BSolutions%5D%20Collaborative%20Filtering.ipynb)
 - `assessment`: Sample questions to assess student learning
+  - [Student Version](https://github.com/maxhchen/MA-Project-T-Final-FA20/blob/main/assessment/%5BStudent%20Copy%5D%20189%20Project%20T%20Assessment.pdf)
+  - [Solutions](https://github.com/maxhchen/MA-Project-T-Final-FA20/blob/main/assessment/%5BSolutions%5D%20189%20Project%20T%20Assessment.pdf)
 
 ## Contributors
 
